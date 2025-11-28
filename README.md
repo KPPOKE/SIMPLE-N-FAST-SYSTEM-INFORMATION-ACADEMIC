@@ -8,15 +8,15 @@ Sistem Informasi Akademik (SIA) adalah aplikasi web untuk mengelola data akademi
 
 ## ✨ Features
 
-- 🎨 **Modern UI/UX** - Desain modern dengan glassmorphism dan gradient
-- 👥 **Manajemen Mahasiswa** - CRUD data mahasiswa dengan search
-- 👨‍🏫 **Manajemen Dosen** - CRUD data dosen
-- 📚 **Manajemen Mata Kuliah** - CRUD data mata kuliah dengan SKS
-- 📊 **Manajemen Nilai** - CRUD nilai dengan grade otomatis (A-E)
-- 🔍 **Real-time Search** - Pencarian data di semua tabel
-- 🔒 **Secure** - Prepared statements untuk mencegah SQL injection
-- 📱 **Responsive** - Tampilan responsif untuk semua ukuran layar
-- ⚡ **Fast** - Optimized dengan single modal dan efficient queries
+-  **Modern UI/UX** 
+-  **Manajemen Mahasiswa** 
+-  **Manajemen Dosen** 
+-  **Manajemen Mata Kuliah** 
+-  **Manajemen Nilai** 
+-  **Real-time Search** 
+-  **Secure** 
+-  **Responsive** 
+-  **Fast** 
 
 ## 🚀 Tech Stack
 
@@ -27,13 +27,13 @@ Sistem Informasi Akademik (SIA) adalah aplikasi web untuk mengelola data akademi
 - **Icons**: Font Awesome 6.4.0
 - **Font**: Google Fonts (Inter)
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - XAMPP / WAMP / LAMP (PHP 7.4+ dan MySQL)
 - Web Browser (Chrome, Firefox, Edge, Safari)
 - Git (untuk clone repository)
 
-## 🛠️ Installation
+##  Installation
 
 ### 1. Clone Repository
 
@@ -133,29 +133,8 @@ http://localhost/project%20SIA%20univ%20ytta/
 - Username: `admin`
 - Password: `123456` (atau sesuai yang Anda set)
 
-## 📁 Project Structure
 
-```
-project SIA univ ytta/
-├── assets/
-│   └── css/
-│       └── styles.css          # Modern design system
-├── dashboard.php               # Dashboard dengan statistik
-├── dosen.php                   # Manajemen data dosen
-├── generate_hash.php           # Generate password hash
-├── hapus_nilai.php            # Handler hapus nilai
-├── index.php                   # Entry point (redirect)
-├── koneksi.php                 # Database connection
-├── login.php                   # Login page
-├── logout.php                  # Logout handler
-├── mahasiswa.php               # Manajemen data mahasiswa
-├── matkul.php                  # Manajemen data mata kuliah
-├── nilai.php                   # Manajemen nilai
-├── .gitignore                  # Git ignore file
-└── README.md                   # Documentation
-```
-
-## 🎨 Features Detail
+##  Features Detail
 
 ### Dashboard
 - Statistik total mahasiswa, dosen, mata kuliah, dan nilai
@@ -183,7 +162,7 @@ project SIA univ ytta/
 - Color-coded badges untuk grade
 - JOIN query untuk menampilkan nama mahasiswa dan mata kuliah
 
-## 🔒 Security Features
+##  Security Features
 
 - ✅ Prepared Statements untuk semua query
 - ✅ HTML Escaping untuk output
@@ -192,7 +171,7 @@ project SIA univ ytta/
 - ✅ Password Hashing (bcrypt)
 - ✅ CSRF Protection (via session)
 
-## 🎯 Browser Support
+##  Browser Support
 
 - ✅ Chrome (Latest)
 - ✅ Firefox (Latest)
@@ -203,12 +182,12 @@ project SIA univ ytta/
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
+##  Author
 
 **KPPOKE**
 - GitHub: [@KPPOKE](https://github.com/KPPOKE)
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -218,7 +197,7 @@ Contributions, issues, and feature requests are welcome!
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Login Page
 ![Login Page](screenshots/login.png)
@@ -227,10 +206,10 @@ Contributions, issues, and feature requests are welcome!
 ![Dashboard](screenshots/dashboard.png)
 
 ### Data Mahasiswa
-![Mahasiswa](screenshots/mahasiswa.png)
+![Mahasiswa](screenshots/mahasiswa_UI.png)
 
 ### Data Nilai
-![Nilai](screenshots/nilai.png)
+![Nilai](screenshots/nilai_UI.png)
 
 ## 🙏 Acknowledgments
 
