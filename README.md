@@ -203,7 +203,7 @@ Contributions, issues, and feature requests are welcome!
 ![Login Page](screenshots/login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard_UI.png)
 
 ### Data Mahasiswa
 ![Mahasiswa](screenshots/mahasiswa_UI.png)
