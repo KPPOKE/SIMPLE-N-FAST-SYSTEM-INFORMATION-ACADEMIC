@@ -6,7 +6,7 @@
 
 Sistem Informasi Akademik (SIA) adalah aplikasi web untuk mengelola data akademik universitas, termasuk data mahasiswa, dosen, mata kuliah, dan nilai.
 
-## ✨ Features
+##  Features
 
 -  **Modern UI/UX** 
 -  **Manajemen Mahasiswa** 
@@ -18,7 +18,7 @@ Sistem Informasi Akademik (SIA) adalah aplikasi web untuk mengelola data akademi
 -  **Responsive** 
 -  **Fast** 
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Backend**: PHP 7.4+
 - **Database**: MySQL/MariaDB
@@ -164,21 +164,21 @@ http://localhost/project%20SIA%20univ%20ytta/
 
 ##  Security Features
 
-- ✅ Prepared Statements untuk semua query
-- ✅ HTML Escaping untuk output
-- ✅ URL Encoding untuk links
-- ✅ Session Management
-- ✅ Password Hashing (bcrypt)
-- ✅ CSRF Protection (via session)
+-  Prepared Statements untuk semua query
+-  HTML Escaping untuk output
+-  URL Encoding untuk links
+-  Session Management
+-  Password Hashing (bcrypt)
+-  CSRF Protection (via session)
 
 ##  Browser Support
 
-- ✅ Chrome (Latest)
-- ✅ Firefox (Latest)
-- ✅ Edge (Latest)
-- ✅ Safari (Latest)
+-  Chrome (Latest)
+-  Firefox (Latest)
+-  Edge (Latest)
+-  Safari (Latest)
 
-## 📝 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
@@ -211,7 +211,7 @@ Contributions, issues, and feature requests are welcome!
 ### Data Nilai
 ![Nilai](screenshots/nilai_UI.png)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Bootstrap Team
 - Font Awesome
