@@ -1,0 +1,30 @@
+# PHP
+*.log
+*.cache
+vendor/
+
+# Database
+*.sql
+*.sqlite
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sensitive files
+koneksi.php
+config.php
+
+# Temporary files
+tmp/
+temp/
+*.tmp
